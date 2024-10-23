@@ -6,9 +6,8 @@
 - 🤝 I’m looking to collaborate on open-source projects.
 
 ### 🛠 Technologies & Tools
-- Languages: HTML, CSS, JavaScript, Python, C++, Java
-- Frameworks: Node.js, Express.js
-- Databases: MySQL, MongoDB
+- Languages: HTML, CSS, JavaScript, Python, C++
+- Databases: MySQL
 - Version Control: Git, GitHub
 
 ### 📈 GitHub Stats
