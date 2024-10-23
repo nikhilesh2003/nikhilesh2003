@@ -12,7 +12,7 @@
 - Version Control: Git, GitHub
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilesh2003&show_icons=true)
 
 ### 📫 How to reach me
 - 📧 [Email](mailto:band21cs016@rmkcet.ac.in)
@@ -28,7 +28,7 @@
 3. YouTube Video Downloader using Python
 
 
-![Nikhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Nikhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilesh2003&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilesh2003&layout=compact&theme=dark)
 
