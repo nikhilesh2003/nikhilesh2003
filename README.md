@@ -28,7 +28,5 @@
 3. YouTube Video Downloader using Python
 
 
-![Nikhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilesh2003&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilesh2003&layout=compact&theme=dark)
 
